@@ -39,4 +39,4 @@ This bar chart provides a **direct comparison of median annual earnings across U
 ## Conclusion
 The dashboard reveals **significant salary disparities between regions**, but **working hours remain consistent across all areas**. Despite the **£7,068 gap between the highest and lowest salaries**, the **difference in working hours is only 0.8 hours per week**. This suggests that **salary differences are influenced more by regional industry concentration and economic strength rather than working hours**. Policymakers should focus on **improving high-paying job opportunities in lower-income regions** to reduce wage inequalities.
 
-The link for published Tableau dashboard is: [https://public.tableau.com/app/profile/adhiraj.banerjee/viz/Salary_hours_viz/Dashboard1?publish=yes](https://public.tableau.com/app/profile/adhiraj.banerjee/viz/SalaryHoursAnalysisintheUK2024/Dashboard1#1)
+The link for published Tableau dashboard is: [Tableau Dashboard](https://public.tableau.com/app/profile/adhiraj.banerjee/viz/SalaryHoursAnalysisintheUK2024/Dashboard1#1)
